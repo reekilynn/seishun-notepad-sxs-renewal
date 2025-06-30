@@ -14,6 +14,7 @@
 |01-02|Bureau du directeur|校长室|
 |01-03|Quarantaine|隔离|
 |01-04|Classe 1-A|一年A班|
+|01-05|La chambre secrète|密室|
 
 #### Statistics
 
@@ -23,3 +24,4 @@
 |01-02|2453|
 |01-03|3003|
 |01-04|2798|
+|01-05|3890|
