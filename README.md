@@ -22,3 +22,4 @@
 |01-10|Critique et Doute|批判与质疑|3711|
 |01-11|Forte Fièvre|高烧|3223|
 |01-12|Visite|探病|5656|
+|01-13|«Je ne cours pas vite.»|「我并不是跑得很快。」|2948|
