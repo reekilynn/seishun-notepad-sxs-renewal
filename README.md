@@ -23,3 +23,4 @@
 |01-11|Forte Fièvre|高烧|3223|
 |01-12|Visite|探病|5656|
 |01-13|«Je ne cours pas vite.»|「我并不是跑得很快。」|2948|
+|01-14|Conseil des Étudiants (I)|学生会（I）|3447|
