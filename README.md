@@ -24,3 +24,4 @@
 |01-12|Visite|探病|5656|
 |01-13|«Je ne cours pas vite.»|「我并不是跑得很快。」|2948|
 |01-14|Conseil des Étudiants (I)|学生会（I）|3447|
+|01-15|L'incompréhension d'André Gide|对安德烈·纪德的误解|4055|
