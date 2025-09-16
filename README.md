@@ -8,7 +8,7 @@
 
 |章节|原文|译文|字数|
 |------:|------:|------:|------:|
-|章节名|市長と捜査官と緑の帽子を被る男|市长与侦查员与戴着绿色帽子的男人|Sum: 44577|
+|章节名|市長と捜査官と緑の帽子を被る男|市长与侦查员与戴着绿色帽子的男人|Sum: 57466|
 |01-00|Prologue: À ×××|序章：致×××|350|
 |01-01|La Maison du Silence: «Bagne de Toulon»|沉默之家：「土伦监狱」|3082|
 |01-02|Bureau du Directeur|校长室|2442|
@@ -25,3 +25,6 @@
 |01-13|«Je ne cours pas vite.»|「我并不是跑得很快。」|2948|
 |01-14|Conseil des Étudiants (I)|学生会（I）|3447|
 |01-15|L'incompréhension d'André Gide|对安德烈·纪德的误解|4055|
+|01-16|L'amour, les mathématiques et la musique|爱，数学与音乐|2966|
+|01-17|L'événement fortuit|偶发事件|2992|
+|01-18|Le Rendez-vous avec l'aînée|与学姐的约会|2579|
