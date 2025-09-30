@@ -33,4 +33,5 @@
 |01-21|Le livre manquant créé par Mari|遗失的茉莉著作|2691|
 |01-22|Avis du «Divorce»|「离婚」的通知|3127|
 |01-23|«Je suis le seul à espérer que la famille puisse continuer d'exister.» (I)|「只有我还希望这个家能够继续存在下去。」（I）|3042|
-||||Sum: 76401|
+|01-24|Gare centrale|火车总站|2984|
+||||Sum: 79385|
