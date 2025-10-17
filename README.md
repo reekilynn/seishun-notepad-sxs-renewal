@@ -36,4 +36,6 @@
 |01-24|Gare centrale|火车总站|2984|
 |01-25|Déclarer son amour|告白|3381|
 |01-26|Sa Réponse|他的回答|2642|
-||||Sum: 85408|
+|01-27|Love Hôtel (I)|爱情旅馆（I）|3471|
+||||Sum: 88879|
+
