@@ -20,4 +20,6 @@
 
 **--C'est une histoire d'amour intitulée «Espoir».**
 
+&emsp;
+
 > ※シナリオは既に考えられたんだが、気分転換のために書いてるので更新はゆっくりです。
