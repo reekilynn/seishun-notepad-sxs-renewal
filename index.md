@@ -77,3 +77,4 @@
 ### Chapitre.02 気まぐれロングバケーション
 
 - [#01 Demande à «Safran»](vol02/02-01.md)
+- [#02 La Musique dans la Mémoire](vol02/02-02.md)
