@@ -22,7 +22,7 @@
 |01-10|Critique et Doute|批判与质疑|3711|
 |01-11|Forte Fièvre|高烧|3223|
 |01-12|Visite|探病|5656|
-|01-13|«Je ne cours pas vite.»|「我并不是跑得很快。」|2948|
+|01-13|«Je ne cours pas vit|e.»|「我并不是跑得很快。」|2948|
 |01-14|Conseil des Étudiants (I)|学生会（I）|3447|
 |01-15|L'incompréhension d'André Gide|对安德烈·纪德的误解|4055|
 |01-16|L'amour, les mathématiques et la musique|爱，数学与音乐|2966|
@@ -41,3 +41,15 @@
 |01-29|La Début avec Elle|与她的开始|3051|
 ||||Sum: 95003|
 
+### Volume 02
+
+#### Running Titles & Statistics
+
+|章节|原文|译文|字数|
+|------:|------:|------:|------:|
+|章节名|気まぐれロングバケーション|反复无常的悠长假期||
+|02-01|Demande à «Safran»|给「藏红花」的委托|3041|
+|02-02|La Musique dans la Mémoire|记忆中的音乐|2137|
+|02-03|Lettre|来信|3027|
+|02-04|«Osteria Pelicanus»|「鹈鹕」餐厅|4654|
+||||Sum: 12859|
