@@ -52,4 +52,6 @@
 |02-02|La Musique dans la Mémoire|记忆中的音乐|2137|
 |02-03|Lettre|来信|3027|
 |02-04|«Osteria Pelicanus»|「鹈鹕」餐厅|4654|
+|02-05|Atlas Historique|历史地图集||
+|02-06|Réunion et Dîner|会面与晚餐||
 ||||Sum: 12859|
