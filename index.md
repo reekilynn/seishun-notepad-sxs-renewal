@@ -79,3 +79,5 @@
 - [#01 Demande à «Safran»](vol02/02-01.md)
 - [#02 La Musique dans la Mémoire](vol02/02-02.md)
 - [#03 Lettre](vol02/02-03.md)
+- [#04 «Osteria Pelicanus»](vol02/02-04.md)
+
