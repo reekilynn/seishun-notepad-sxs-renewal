@@ -53,5 +53,5 @@
 |02-03|Lettre|来信|3027|
 |02-04|«Osteria Pelicanus»|「鹈鹕」餐厅|4654|
 |02-05|Atlas Historique|历史地图集|3303|
-|02-06|Réunion et Dîner|会面与晚餐||
-||||Sum: 16162|
+|02-06|Dîner|晚餐|3433|
+||||Sum: 19595|
