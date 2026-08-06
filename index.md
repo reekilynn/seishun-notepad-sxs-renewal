@@ -82,4 +82,5 @@
 - [#04 «Osteria Pelicanus»](vol02/02-04.md)
 - [#05 Atlas Historique](vol02/02-05.md)
 - [#06 Dîner](vol02/02-06.md)
+- [#07 Le Chemin du Retour](vol02/02-07.md)
 
