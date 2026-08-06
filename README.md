@@ -54,4 +54,5 @@
 |02-04|«Osteria Pelicanus»|「鹈鹕」餐厅|4654|
 |02-05|Atlas Historique|历史地图集|3303|
 |02-06|Dîner|晚餐|3433|
-||||Sum: 19595|
+|02-07|Le Chemin du Retour|归途|2756|
+||||Sum: 22351|
