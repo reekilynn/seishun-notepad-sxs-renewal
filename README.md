@@ -55,4 +55,5 @@
 |02-05|Atlas Historique|历史地图集|3303|
 |02-06|Dîner|晚餐|3433|
 |02-07|Le Chemin du Retour|归途|2756|
-||||Sum: 22351|
+|02-08|Conseil des Étudiants (II)|学生会（II）|2786|
+||||Sum: 25137|
