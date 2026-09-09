@@ -85,3 +85,4 @@
 - [#07 Le Chemin du Retour](vol02/02-07.md)
 - [#08 Conseil des Étudiants (II)](vol02/02-08.md)
 - [#09 Préparation du Festival Sportif (I)](vol02/02-09.md)
+- [#10 Travail du Piano (I)](vol02/02-10.md)
