@@ -57,4 +57,5 @@
 |02-07|Le Chemin du Retour|归途|2756|
 |02-08|Conseil des Étudiants (II)|学生会（II）|2786|
 |02-09|Préparation du Festival Sportif (I)|运动会的准备（I）|2321|
-||||Sum: 27458|
+|02-10|Travail du Piano (I)|钢琴练习（I）|2491|
+||||Sum: 29949|
