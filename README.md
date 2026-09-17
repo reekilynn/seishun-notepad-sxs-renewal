@@ -60,4 +60,5 @@
 |02-10|Travail du Piano (I)|钢琴练习（I）|2491|
 |02-11|Préparation du Festival Sportif (II)|运动会的准备（II）|2600|
 |02-12|Monsieur Tachibana et l'Orchestre Symphonique|立华老师与交响乐部|3038|
-||||Sum: 35587|
+|02-13|Séance de Révision à Deux|两个人的学习会|3590|
+||||Sum: 39177|
