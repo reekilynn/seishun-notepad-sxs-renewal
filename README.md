@@ -63,4 +63,5 @@
 |02-13|Séance de Révision à Deux|两个人的学习会|3590|
 |02-14|Après les Examens de Mi-semestre|期中考试之后|3055|
 |02-15|Le Président en Noir (I)|黑衣学生会长（I）|3402|
-||||Sum: 45634|
+|02-16|Journal Partagé et Proposition de Faire Équipe|交换日记与接力组队|3117|
+||||Sum: 48751|
